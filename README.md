@@ -2,6 +2,10 @@
 
 Command line tool for controlling HP OMEN RGB keyboard lighting.
 
+> [!TIP]  
+> Need help or want to chat? Join our **official Discord server** for support, questions, or to show off your RGB setups:  
+> **[➡️ Click here to join Discord](https://discord.gg/8UwyAJ7sBH)**  
+
 ## Prerequisites
 
 This CLI requires the [omen-rgb-keyboard](https://github.com/alessandromrc/omen-rgb-keyboard) kernel driver to be installed first.
